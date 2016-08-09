@@ -1,4 +1,4 @@
-package java;
+package ch02;
 
 
 import org.apache.hadoop.fs.Path;
