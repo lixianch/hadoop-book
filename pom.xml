@@ -13,6 +13,7 @@
         <module>book</module>
         <module>hadoop-meta</module>
         <module>ch02-mr-intro</module>
+        <module>ch03-hdfs</module>
     </modules>
 
 
